@@ -1,0 +1,10 @@
+general:
+    api_token_path: ".api_token"
+    base_url: "https://api.heroesprofile.com/api"
+    mode: "json"
+    region: "2"
+    game_type: "all"
+
+#battle_tags:
+#    "Zemil#1940":
+#    region: "1"
